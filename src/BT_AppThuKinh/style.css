@@ -1,0 +1,31 @@
+.bg {
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+.contain {
+  width: 500px;
+  height: 500px;
+  align-items: center;
+}
+.model {
+  width: 500px;
+  height: 400px;
+  position: absolute;
+  background-repeat: no-repeat !important;
+  top: 10%;
+  left: 70%;
+}
+.glasses {
+  width: 80%;
+  position: absolute;
+  top: 38%;
+  left: 79%;
+  /* background-repeat: no-repeat !important; */
+}
+.detail {
+  position: absolute;
+  top: 90%;
+  left: 70%;
+  width: 96%;
+}
